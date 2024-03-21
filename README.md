@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Wojciech Szewczyk</h1>
-<h3 align="center">Computational Engineering AGH student</h3>
+<h3 align="center">Computational Engineering student at AGH University</h3>
 
 - I’m currently learning **Java**
 - You can reach me **0wojtek.szewczyk0@gmail.com**
