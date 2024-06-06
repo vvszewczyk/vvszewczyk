@@ -1,7 +1,6 @@
 <h1 align="center">Hello there, I'm Wojciech Szewczyk</h1>
 <h3 align="center">Computational Engineering student at AGH University</h3>
 
-- I’m currently learning **Java**
 - You can reach me **0wojtek.szewczyk0@gmail.com**
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" /></p>
