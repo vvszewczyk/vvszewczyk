@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Wojciech Szewczyk</h1>
+<h1 align="center">Hello there, I'm Wojtek</h1>
 <h3 align="center">Computational Engineering student at AGH University</h3>
 
 - You can reach me **0wojtek.szewczyk0@gmail.com**
