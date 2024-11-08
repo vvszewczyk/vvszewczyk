@@ -53,11 +53,11 @@
 <div style="display: flex; justify-content: space-between;">
   <div align="left" style="width: 48%;">
     <h3>🔥 GitHub Streak</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="50%" />
   </div>
   <div align="right" style="width: 48%;">
     <h3>💬 Inspiring Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="100%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="50%" />
   </div>
 </div>
 
