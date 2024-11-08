@@ -50,15 +50,14 @@
 
 ---
   
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔥 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <h3>💬 Inspiring Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="100%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <div align="center" style="width: 48%;">
+    <h3>🔥 GitHub Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="100%" />
+  </div>
+  <div align="center" style="width: 48%;">
+    <h3>💬 Inspiring Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="100%" />
+  </div>
+</div>
+
