@@ -18,8 +18,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
   
-  ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vvszewczyk&show_icons=true&theme=dracula&locale=en" alt="vvszewczyk" /></p>
+### 🔥 GitHub Streak
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk" />
+</p>
+
 
 
 
