@@ -1,4 +1,4 @@
-<h2 align="center">Computational Engineering Student | AGH University</h2>
+<h3 align="center">Computational Engineering Student | AGH University</h3>
 
 ---
 
