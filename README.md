@@ -50,7 +50,7 @@
 
 ---
   
-<table>
+<table style="border: none; background-color: transparent; width: 100%;">
   <tr>
     <td align="center" width="50%">
       ### 🔥 GitHub Streak
