@@ -51,7 +51,7 @@
 ---
   
 ### 🔥 GitHub Streak
-<p align="center">
+<p align="right">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="50%" />
 </p>
 
