@@ -6,8 +6,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" /></p>
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -41,8 +39,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
 </p>
-
----
   
 <table>
   <tr>
