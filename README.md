@@ -57,7 +57,7 @@
 
 ### 💬 Inspirujący Cytat
 <p align="right">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="50%" />
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="45%" />
 </p>
 
 
