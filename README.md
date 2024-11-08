@@ -1,6 +1,6 @@
 <h2 align="center">Computational Engineering Student | AGH University</h2>
 
----
+----
 
 - 📫 You can reach me **0wojtek.szewczyk0@gmail.com**
 
