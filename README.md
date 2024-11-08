@@ -44,7 +44,7 @@
       </p>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="90%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="70%" />
     </td>
   </tr>
   <tr>
