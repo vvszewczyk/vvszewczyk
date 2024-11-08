@@ -49,18 +49,16 @@
 </table>
 
 <br><br><br><br>
-  
+
 <table>
   <tr>
     <td align="center" width="50%" valign="middle">
+      <h3>GitHub Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="90%" />
     </td>
     <td align="center" width="50%" valign="middle">
-      <br>
+      <h3>Inspirujący Cytat</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="90%" />
     </td>
   </tr>
 </table>
-
-
-
