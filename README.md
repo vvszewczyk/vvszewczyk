@@ -23,6 +23,10 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk" />
 </p>
 
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Cytat" />
+</p>
+
 
 
 
