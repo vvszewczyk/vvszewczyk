@@ -50,14 +50,14 @@
   
 ### 🔥 GitHub Streak
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="80%" />
 </p>
 
 ---
 
 ### 💬 Inspirujący Cytat
 <p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" />
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="60%" />
 </p>
 
 
