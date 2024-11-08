@@ -4,10 +4,12 @@
 
 - 📫 You can reach me **0wojtek.szewczyk0@gmail.com**
 
+---
+
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
-      <h3>Languages and Tools</h3>
+      <h3>Languages and Tools:</h3>
       <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -42,17 +44,14 @@
       </p>
     </td>
     <td align="center" width="50%" valign="middle">
-      <h3>Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="90%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
-      <h3>GitHub Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="90%" />
     </td>
     <td align="center" width="50%" valign="middle">
-      <h3>Inspirujący Cytat</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="90%" />
     </td>
   </tr>
