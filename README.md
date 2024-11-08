@@ -53,11 +53,11 @@
 <table style="border: none; background-color: transparent; width: 100%;">
   <tr>
     <td align="center" width="50%">
-      ### 🔥 GitHub Streak
+      <h3>🔥 GitHub Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="100%" />
     </td>
     <td align="center" width="50%">
-      ### 💬 Inspirujący Cytat
+      <h3>💬 Inspiring Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="100%" />
     </td>
   </tr>
