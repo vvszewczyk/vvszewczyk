@@ -4,8 +4,6 @@
 
 - 📫 You can reach me **0wojtek.szewczyk0@gmail.com**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" /></p>
-
 <table>
   <tr>
     <td align="center" width="50%" valign="middle">
