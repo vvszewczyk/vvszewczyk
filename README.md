@@ -44,7 +44,7 @@
       </p>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="65%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="70%" />
     </td>
   </tr>
   <tr>
@@ -52,6 +52,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvszewczyk&theme=dracula" alt="vvszewczyk GitHub Streak" width="90%" />
     </td>
     <td align="center" width="50%" valign="middle">
+      <br>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirujący cytat" width="90%" />
     </td>
   </tr>
