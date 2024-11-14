@@ -6,8 +6,7 @@
 
 ---
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&locale=en&layout=compact" alt="vvszewczyk" /></p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk""/></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -36,9 +35,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vvszewczyk" width="40 height = "40"/>
   </a>
 </p>
 
