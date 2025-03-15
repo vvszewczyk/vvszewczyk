@@ -2,7 +2,7 @@
 
 ---
 
-- 📫 You can reach me **0wojtek.szewczyk0@gmail.com**
+- 📫 You can reach me **vvszewczyk7@gmail.com**
 
 ---
 
