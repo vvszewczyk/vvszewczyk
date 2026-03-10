@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Assembler-444444?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Assembler">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
   <img src="https://img.shields.io/badge/SFML-8CC84B?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="SFML">
   <img src="https://img.shields.io/badge/JavaFX-008000?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
