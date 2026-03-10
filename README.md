@@ -5,9 +5,7 @@
 📫 You can reach me **vvszewczyk7@gmail.com**
 
 ---
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvszewczyk&show_icons=true&theme=dracula&locale=en&layout=compact&hide=html,css" alt="vvszewczyk""/></p>
-
+<p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvszewczyk&theme=dracula&hide=php"/></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
